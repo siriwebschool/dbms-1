@@ -43,3 +43,9 @@ How is data stored in the db?
    - b-tree (algorithm)
  - Row based db
  - Column based db
+
+# 27 Oct 2024
+
+## Indexing
+- Primary Indexing
+- Secondary Indexing
