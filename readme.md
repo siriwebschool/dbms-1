@@ -49,3 +49,9 @@ How is data stored in the db?
 ## Indexing
 - Primary Indexing
 - Secondary Indexing
+
+# 03 Nov 2024
+- Recap + Test
+
+# 10 Nov 2024
+- Build your own database. Using the dummy database given above, write a script which when run like the following: `node index.js 26` will fetch the details of the 26th employee in the database.
