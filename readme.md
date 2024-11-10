@@ -54,4 +54,4 @@ How is data stored in the db?
 - Recap + Test
 
 # 10 Nov 2024
-- Build your own database. Using the dummy database given above, write a script which when run like the following: `node index.js 26` will fetch the details of the 26th employee in the database.
+- Build your own database. Using the dummy database given above, write a script (in nodejs or any language of your choice) which when run like the following: `node index.js 26` will fetch the details of the 26th employee in the database. Assume that the rows are delimited using `\n` and columns are delimited using `,`.
