@@ -33,7 +33,7 @@ func main() {
 	var indexes map[string]string
 	err = json.Unmarshal(data, &indexes) // O(n) n - number of indexes
 	if err != nil {
-		log.Fatal("Failed to unmarshal JSON: %v", err)
+		fmt.Printf("Failed to unmarshal JSON: %v", err)
 	}
 
 	fileName := fmt.Sprint("page/", indexes[searchKey], ".txt") // `page/${index[searchKey].txt}`

@@ -1,0 +1,10 @@
+1,2001,Person 1,Rank1
+2,2002,Person 2,nil
+3,2003,Person 3,nil
+4,2004,Person 4,nil
+5,2005,Person 5,Rank3
+6,2006,Person 6,nil
+7,2007,Person 7,nil
+8,2008,Person 8,nil
+9,2009,Person 9,nil
+10,2010,Person 10,Rank3
